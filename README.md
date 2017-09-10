@@ -1,0 +1,2 @@
+# smooveau
+A smoothing algorithm
